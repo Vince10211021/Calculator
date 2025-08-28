@@ -60,4 +60,21 @@ button:active{
 }
 .operator-btn:active{
     background-color: hsl(249, 100%, 50%);
+
 }
+
+/*phones*/
+@media (max-width:600px){
+
+}
+
+/*tablets*/
+@media (max-width:1024px){
+
+}
+
+/*desktop*/
+@media (max-width:1440px){
+
+}
+  
